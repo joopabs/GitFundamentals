@@ -1,5 +1,5 @@
 Hello, Git
 Hello, again
-Updating README with new information
-Added another line
+Updating README with peklat information
+Added conflict line
 2nd line
